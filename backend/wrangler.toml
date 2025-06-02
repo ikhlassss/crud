@@ -1,0 +1,11 @@
+name = "backend"
+type = "javascript"
+
+account_id = "YOUR_CLOUDFLARE_ACCOUNT_ID"
+workers_dev = true
+compatibility_date = "2025-06-02"
+
+[[d1_databases]]
+binding = "DATABASE_BINDING_NAME"
+database_name = "manajemen_produk"
+database_id = "YOUR_DATABASE_ID"
