@@ -8,4 +8,4 @@ compatibility_date = "2025-06-02"
 [[d1_databases]]
 binding = "DATABASE_BINDING_NAME"
 database_name = "manajemen_produk"
-database_id = "YOUR_DATABASE_ID"
+database_id = "32392545-5117-4990-8c37-a0b8b4458d4a"
